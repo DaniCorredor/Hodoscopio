@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SiPM 8Ch vf2_pcb.PcbDoc   17/09/2025  11:14:39 a. m.
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SiPM 8Ch vf2_pcb-RoundHoles.TXT
+ASCII SlotHoles File : SiPM 8Ch vf2_pcb-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.89mm (35mil)                                            Round             27        PTH        177.72mm (7.00inch)
+T2      3.2mm (126mil)                                            Round             3         PTH        114.00mm (4.49inch)
+T3      3.2mm (126mil)                                            Slot              6         PTH        660.27mm (25.99inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              36
+
+Total Processing Time (hh:mm:ss) : 00:00:00

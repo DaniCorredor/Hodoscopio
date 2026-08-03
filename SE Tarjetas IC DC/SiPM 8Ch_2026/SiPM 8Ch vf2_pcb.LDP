@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\j.pinerose\Departamento-Física Dropbox\fiselectronica\Lab_Altas_Energias\2025\Diseño y Desarrollo\3900-PCB Centelladora SiPM 9mm^2\SiPM 8Ch_Project\SiPM 8Ch vf2_pcb.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=sipm 8ch vf2_pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=sipm 8ch vf2_pcb-slotholes.txt|DrillLayers=gtl,gbl
